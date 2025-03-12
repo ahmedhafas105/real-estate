@@ -15,10 +15,10 @@ Welcome to the **Real Estate Website** built with **React** ⚛️ and **Vite** 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/real-estate-website.git
+git clone https://github.com/ahmedhafas105/real-estate.git
 
 # Navigate into the directory
-cd real-estate-website
+cd real-estate
 
 # Install dependencies
 npm install
